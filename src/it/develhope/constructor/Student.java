@@ -2,7 +2,7 @@ package it.develhope.constructor;
 
 public class Student {
 
-    public String name;
+    private String name;
     public int grade;
 
     public Student(String studentName){

@@ -15,6 +15,7 @@ public class Start {
         teacher.assignGrade(student1, 3);
         teacher.assignGrade(student2, 1);
 
+
         student1.getStudentDetails();
         System.out.println("---------------------");
         student2.getStudentDetails();
